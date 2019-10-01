@@ -1,0 +1,40 @@
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.exe.config
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.exe
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.pdb
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csprojAssemblyReference.cache
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.Form1.resources
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.Properties.Resources.resources
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csproj.GenerateResource.cache
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.exe
+C:\Users\veyse\Desktop\Dersler\Ders Notları\3. Sınıf\1. Dönem\Yazılım Lab\Yazılım Lab III\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.pdb
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.exe.config
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.exe
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.pdb
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csprojAssemblyReference.cache
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.Form1.resources
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.Properties.Resources.resources
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csproj.GenerateResource.cache
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csproj.CoreCompileInputs.cache
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.exe
+C:\Users\Ayberk\Desktop\as\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.pdb
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.exe.config
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.exe
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.pdb
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csprojAssemblyReference.cache
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.Form1.resources
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.Properties.Resources.resources
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csproj.GenerateResource.cache
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csproj.CoreCompileInputs.cache
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.exe
+C:\Users\Ayberk\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.pdb
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.exe.config
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.exe
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\bin\Debug\YazilimLabProje3.pdb
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csprojAssemblyReference.cache
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.Form1.resources
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.Properties.Resources.resources
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csproj.GenerateResource.cache
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.csproj.CoreCompileInputs.cache
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.exe
+E:\SSD\Desktop\WorkSpace\yaz lab\Yazlab3\YazLab1.3\YazilimLabProje3\YazilimLabProje3\obj\Debug\YazilimLabProje3.pdb
